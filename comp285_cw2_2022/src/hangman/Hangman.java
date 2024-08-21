@@ -1,15 +1,6 @@
 /**
  * Hangman.java
  * 
- * Assignment 2 for COMP285.  
- * 
- * Play the game of Hangman.
- * 
- * Show your Surname, Name and Student ID.
- * 
- * Andrey Terakopov ID: 201434719
- * sgaterak@liverpool.ac.uk
- * 
  * Some methods of this Java file are either wrongly implemented or not implemented. 
  * A correct implementation is required to pass all test methods in the test case 
  * {@link HangmanTest}.  
